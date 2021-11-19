@@ -19,4 +19,6 @@
 <br>(https://ojs.aaai.org/index.php/AAAI/article/view/5656/5512)
 * **EEG-Based Emotion Recognition Using Regularized Graph Neural Networks**, 2020, IEEE Transactions on Affective Computing (TAC)
 <br>(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9091308)
+* **Variational Instance-Adaptive Graph for EEG Emotion Recognition**, 2021, IEEE Transactions on Affective Computing (TAC)
+<br>(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9373917)
 ## Other methods
