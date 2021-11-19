@@ -1,5 +1,5 @@
 # Database
-* SEED (https://bcmi.sjtu.edu.cn/~seed/index.html)
+* **SEED** (https://bcmi.sjtu.edu.cn/~seed/index.html)
 <br>Discrete emotions (positive, neutral, negative)
 * SEED-IV (https://bcmi.sjtu.edu.cn/~seed/index.html)
 * SEED-V (https://bcmi.sjtu.edu.cn/~seed/index.html)
