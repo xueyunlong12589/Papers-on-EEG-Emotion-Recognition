@@ -9,5 +9,7 @@
 <br>Four modal (EEG, ECG, ESP, GSR). Seven discrete emotions (joy, funny, anger, sadness, fear, disgust, neutrality)
 * **DEAP** (http://www.eecs.qmul.ac.uk/mmv/datasets/deap/)
 <br>Four main modal (EEG, EOG, EMG, GSR). Dimensional emotions (valence, arousal, dominance)
-# Graph-based approach
+# Methods
+## Graph-based methods
 * EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8320798)
+## Other methods
