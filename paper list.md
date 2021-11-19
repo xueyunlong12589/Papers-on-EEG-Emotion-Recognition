@@ -1,6 +1,6 @@
 # Database
 * SEED (https://bcmi.sjtu.edu.cn/~seed/index.html)
-Discrete emotions (positive, neutral, negative)
+<br>Discrete emotions (positive, neutral, negative)
 * SEED-IV (https://bcmi.sjtu.edu.cn/~seed/index.html)
 * SEED-V (https://bcmi.sjtu.edu.cn/~seed/index.html)
 * MPED (https://github.com/Tengfei000/MPED/)
