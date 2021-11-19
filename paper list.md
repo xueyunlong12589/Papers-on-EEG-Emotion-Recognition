@@ -11,5 +11,5 @@
 <br>Four main modal (EEG, EOG, EMG, GSR). Dimensional emotions (valence, arousal, dominance)
 # Methods
 ## Graph-based methods
-* EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, 2018, AAAI (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8320798)
+* EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks, 2018,  IEEE Transactions on Affective Computing (TAC) (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8320798)
 ## Other methods
