@@ -11,14 +11,16 @@
 <br>Four main modal (EEG, EOG, EMG, GSR). Dimensional emotions (valence, arousal, dominance)
 # Methods
 ## Graph-based methods
-* **EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks**, 2018, IEEE Transactions on Affective Computing (TAC)
+* **EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks**, IEEE Transactions on Affective Computing (TAC), 2018
 <br>(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8320798)
-* **Sparse Graphic Attention LSTM for EEG Emotion Recognition**, 2019, ICONIP
+* **Sparse Graphic Attention LSTM for EEG Emotion Recognition**, ICONIP, 2019
 <br>(https://sci-hub.mksa.top/)
-* **Instance-adaptive Graph for EEG Emotion Recognition**, 2020, AAAI
+* **Instance-adaptive Graph for EEG Emotion Recognition**, AAAI, 2020
 <br>(https://ojs.aaai.org/index.php/AAAI/article/view/5656/5512)
-* **EEG-Based Emotion Recognition Using Regularized Graph Neural Networks**, 2020, IEEE Transactions on Affective Computing (TAC)
+* **EEG-Based Emotion Recognition Using Regularized Graph Neural Networks**, IEEE Transactions on Affective Computing (TAC), 2020
 <br>(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9091308)
-* **Variational Instance-Adaptive Graph for EEG Emotion Recognition**, 2021, IEEE Transactions on Affective Computing (TAC)
+* **Variational Instance-Adaptive Graph for EEG Emotion Recognition**, IEEE Transactions on Affective Computing (TAC), 2021
+<br>(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9373917)
+* **Graph Embedded Convolutional Neural Network for Image-Based EEG Emotion Recognition**, IEEE Transactions on Emerging Topics in Computing (TETC), 2021
 <br>(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9373917)
 ## Other methods
