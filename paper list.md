@@ -6,6 +6,7 @@
 * **SEED-V** (https://bcmi.sjtu.edu.cn/~seed/index.html)
 <br>Two modal (EEG and eye movement). Five discrete emotions (happy, neutral, sad, fear, disgust)
 * **MPED** (https://github.com/Tengfei000/MPED/)
+<br>Four modal (EEG, ECG, ESP, GSR). Seven discrete emotions (joy, funny, anger, sadness, fear, disgust, neutrality)
 * **DEAP** (http://www.eecs.qmul.ac.uk/mmv/datasets/deap/)
 # Graph-based approach
 * EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8320798)
