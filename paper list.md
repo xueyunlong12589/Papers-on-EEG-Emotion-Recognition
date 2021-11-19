@@ -13,6 +13,8 @@
 ## Graph-based methods
 * **EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks**, 2018, IEEE Transactions on Affective Computing (TAC)
 <br>(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8320798)
+* **Sparse Graphic Attention LSTM for EEG Emotion Recognition**, 2019, ICONIP
+<br>(https://sci-hub.mksa.top/)
 * **Instance-adaptive Graph for EEG Emotion Recognition**, 2020, AAAI
 <br>(https://ojs.aaai.org/index.php/AAAI/article/view/5656/5512)
 * **EEG-Based Emotion Recognition Using Regularized Graph Neural Networks**, 2020, IEEE Transactions on Affective Computing (TAC)
