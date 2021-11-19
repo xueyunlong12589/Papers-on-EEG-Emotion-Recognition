@@ -1,9 +1,10 @@
 # Database
 * **SEED** (https://bcmi.sjtu.edu.cn/~seed/index.html)
-<br>Discrete emotions (positive, neutral, negative)
+<br>Three discrete emotions (positive, neutral, negative)
 * **SEED-IV** (https://bcmi.sjtu.edu.cn/~seed/index.html)
-<br>Two modal(EEG and eye movement). Discrete emotions (happy, neutral, sad, fear)
+<br>Two modal(EEG and eye movement). Four discrete emotions (happy, neutral, sad, fear)
 * **SEED-V** (https://bcmi.sjtu.edu.cn/~seed/index.html)
+<br>Two modal (EEG and eye movement). Five discrete emotions (happy, neutral, sad, fear, disgust)
 * **MPED** (https://github.com/Tengfei000/MPED/)
 * **DEAP** (http://www.eecs.qmul.ac.uk/mmv/datasets/deap/)
 # Graph-based approach
