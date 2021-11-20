@@ -33,8 +33,7 @@
 * **A Novel Neural Network Model based on Cerebral Hemispheric Asymmetry for EEG Emotion Recognition**, IJCAI, 2018
 <br>(http://www.ijcai.org/proceedings/2018/0216.pdf)
 * **A Bi-hemisphere Domain Adversarial Neural Network Model for EEG Emotion Recognition**, IEEE Transactions on Affective Computing (TAC), 2018
-<br>(http://www.ijcai.org/proceedings/2018/0216.pdf)
+<br>(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8567966)
 * **Spatio-Temporal Recurrent Neural Network for Emotion Recognition**, IEEE Transactions on Cybernetics, 2019
-<br>(http://www.ijcai.org/proceedings/2018/0216.pdf)
 * **From Regional to Global Brain: A Novel Hierarchical Spatial-Temporal Neural Network Model for EEG Emotion Recognition**, IEEE Transactions on Affective Computing (TAC), 2019
-<br>(http://www.ijcai.org/proceedings/2018/0216.pdf)
+<br>(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8736804)
