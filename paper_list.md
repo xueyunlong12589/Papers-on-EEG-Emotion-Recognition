@@ -23,6 +23,8 @@
 <br>(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9373917)
 * **Graph Embedded Convolutional Neural Network for Image-Based EEG Emotion Recognition**, IEEE Transactions on Emerging Topics in Computing (TETC), 2021
 <br>(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9373917)
+* **SparseDGCNN: Recognizing Emotion from Multichannel EEG Signals**, IEEE Transactions on Affective Computing (TAC), 2021
+<br>(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9321519)
 * **Attention-based Spatio-Temporal Graphic LSTM for EEG Emotion Recognition**, IJCNN, 2021
 <br>(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9534443)
 * **A Multi-Domain Adaptive Graph Convolutional Network for EEG-based Emotion Recognition**, ACM MM, 2021
