@@ -30,3 +30,11 @@
 * **A Multi-Domain Adaptive Graph Convolutional Network for EEG-based Emotion Recognition**, ACM MM, 2021
 <br>(https://dl.acm.org/doi/abs/10.1145/3474085.3475697)
 ## Other methods
+* **A Novel Neural Network Model based on Cerebral Hemispheric Asymmetry for EEG Emotion Recognition**, IJCAI, 2018
+<br>(http://www.ijcai.org/proceedings/2018/0216.pdf)
+* **A Bi-hemisphere Domain Adversarial Neural Network Model for EEG Emotion Recognition**, IEEE Transactions on Affective Computing (TAC), 2018
+<br>(http://www.ijcai.org/proceedings/2018/0216.pdf)
+* **Spatio-Temporal Recurrent Neural Network for Emotion Recognition**, IEEE Transactions on Cybernetics, 2019
+<br>(http://www.ijcai.org/proceedings/2018/0216.pdf)
+* **From Regional to Global Brain: A Novel Hierarchical Spatial-Temporal Neural Network Model for EEG Emotion Recognition**, IEEE Transactions on Affective Computing (TAC), 2019
+<br>(http://www.ijcai.org/proceedings/2018/0216.pdf)
